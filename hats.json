@@ -1,0 +1,9 @@
+[
+    {
+        "id": "cowboy",
+        "title": "Rootin' Tootin",
+        "description": "Reminiscent of an old dog named Rupert.",
+        "price": 100.00,
+        "type": "builtin"
+    }
+]
