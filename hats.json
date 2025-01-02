@@ -21,6 +21,13 @@
         "type": "online"
     },
     {
+        "id": "fez",
+        "title": "Fez",
+        "description": "",
+        "price": 750.00,
+        "type": "online"
+    },
+    {
         "id": "viking",
         "title": "Viking",
         "description": "",
