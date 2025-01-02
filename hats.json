@@ -26,5 +26,12 @@
         "description": "",
         "price": 1000.00,
         "type": "online"
+    },
+    {
+        "id": "minibill",
+        "title": "Mini Bill",
+        "description": "Bill Bill Bill",
+        "price": 10000.00,
+        "type": "online"
     }
 ]
