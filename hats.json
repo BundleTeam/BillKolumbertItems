@@ -10,21 +10,21 @@
         "id": "tophat",
         "title": "Tophat",
         "description": "Indubitably.",
-        "price": 0.00,
+        "price": 250.00,
         "type": "online"
     },
     {
         "id": "beanie",
         "title": "Beanie",
         "description": "Gotta get that money.",
-        "price": 0.00,
+        "price": 500.00,
         "type": "online"
     },
     {
         "id": "viking",
         "title": "Viking",
         "description": "",
-        "price": 0.00,
+        "price": 1000.00,
         "type": "online"
     }
 ]
