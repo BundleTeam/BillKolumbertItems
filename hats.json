@@ -38,7 +38,7 @@
         "id": "minibill",
         "title": "Mini Bill",
         "description": "Bill Bill Bill",
-        "price": 10000.00,
+        "price": 5000.00,
         "type": "online"
     }
 ]
