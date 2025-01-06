@@ -23,14 +23,14 @@
     {
         "id": "fez",
         "title": "Fez",
-        "description": "",
+        "description": "Mystery Shack or Doctor Who. Either works.",
         "price": 750.00,
         "type": "online"
     },
     {
         "id": "viking",
         "title": "Viking",
-        "description": "",
+        "description": "Norse mythology was written because of Bill.",
         "price": 1000.00,
         "type": "online"
     },
